@@ -1,0 +1,11 @@
+1. Introduction to Prolog- Installation, Syntax and Semantics.
+2. Write a program in Prolog to create simple knowledge base and query over it.
+3. Write program for expert systems inferences using Prolog
+4. Write a program for finding inferential relationship from family tree using Prolog
+5. Write program for simple reflex response generation in Prolog
+6. Write a program to conduct uninformed and informed search using IDP
+7. Write program to conduct game search using Minimax Algorithm approach in IDP
+8. Write a program to infer from the Bayesian network
+9. Write a program for character recognition using IDP
+10. Write program for Image classification using IDP libraries
+11. Write program for TIC-TAC-TOE game playing automated system using IDP 
